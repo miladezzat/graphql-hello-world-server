@@ -1,0 +1,19 @@
+{
+  "name": "graphql-hello-world-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "email": "miladezzat.f@gmail.com",
+    "name": "Milad E. Fahmy",
+    "url": "https://github.com/miladezzat"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.14.2",
+    "graphql": "^14.6.0"
+  }
+}
